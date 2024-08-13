@@ -24,4 +24,4 @@
 git clone https://github.com/sirpdboy/luci-app-eqosplus package/eqosplus
 git clone https://github.com/kiddin9/luci-theme-edge package/edge
 git clone https://github.com/kiddin9/luci-app-store package/store
-git_clone https://github.com/kiddin9/luci-app-ramfre package/ramfree
+git clone https://github.com/kiddin9/luci-app-ramfre package/ramfree
