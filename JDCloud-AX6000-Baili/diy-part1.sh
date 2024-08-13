@@ -26,4 +26,4 @@
 git clone https://github.com/sirpdboy/luci-app-eqosplus package/luci-app-eqosplus
 git clone https://github.com/souwei168/luci-app-store package/luci-app-store
 git clone https://github.com/QC3284/luci-app-ramfree package/luci-app-ramfree
-git clone https://github.com/ricemices/luci-theme-edge package/luci-theme-edge
+git clone -b 18.06 https://github.com/ricemices/luci-theme-edge package/luci-theme-edge
