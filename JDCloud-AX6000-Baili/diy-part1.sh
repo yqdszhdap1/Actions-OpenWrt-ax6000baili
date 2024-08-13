@@ -19,8 +19,12 @@
 #git clone https://github.com/messense/aliyundrive-webdav package/messense
 #git clone https://github.com/gdy666/luci-app-lucky package/lucky
 #git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
-git clone https://github.com/davinyue/luci-theme-edge package/edge
-git clone https://github.com/souwei168/luci-app-store package/store
-git clone https://github.com/QC3284/luci-app-ramfree package/ramfree
-git clone https://github.com/sirpdboy/luci-app-eqosplus package/eqosplus
-git clone https://github.com/kongfl888/openwrt-my-dnshelper package/my-dnshelper
+#git clone https://github.com/kiddin9/luci-theme-edge package/edge
+#git clone https://github.com/souwei168/luci-app-store package/store
+#git clone https://github.com/QC3284/luci-app-ramfree package/ramfree
+#git clone https://github.com/sirpdboy/luci-app-eqosplus package/eqosplus
+#git clone https://github.com/kongfl888/openwrt-my-dnshelper package/my-dnshelper
+git clone https://github.com/kiddin9/openwrt-packages/luci-theme-edge
+git clone https://github.com/kiddin9/openwrt-packages/luci-app-store
+git clone https://github.com/kiddin9/openwrt-packages/luci-app-ramfree
+git clone https://github.com/kiddin9/openwrt-packages/luci-app-eqosplus
