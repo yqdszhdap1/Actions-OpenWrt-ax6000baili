@@ -23,6 +23,10 @@
 #git clone https://github.com/kongfl888/openwrt-my-dnshelper package/my-dnshelper
 #git clone https://github.com/kiddin9/openwrt-packages/luci-theme-edge package/luci-theme-edge
 #git clone https://github.com/kiddin9/openwrt-packages/luci-app-store package/luci-app-store
-#git clone https://github.com/sirpdboy/luci-app-eqosplus package/luci-app-eqosplus
+git clone https://github.com/sirpdboy/luci-app-eqosplus package/eqosplus
 #git clone https://github.com/kiddin9/openwrt-packages/luci-app-ramfree package/luci-app-ramfree
-git clone https://github.com/kiddin9/openwrt-packages
+#git clone https://github.com/kiddin9/openwrt-packages
+git clone https://github.com/sirpdboy/luci-app-eqosplus package/luci-app-eqosplus
+git clone https://github.com/souwei168/luci-app-store package/luci-app-store
+git clone https://github.com/QC3284/luci-app-ramfree package/luci-app-ramfree
+git clone https://github.com/ricemices/luci-theme-edge package/luci-theme-edge
