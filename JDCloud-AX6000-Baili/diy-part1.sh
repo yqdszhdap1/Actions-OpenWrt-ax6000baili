@@ -19,11 +19,10 @@
 #git clone https://github.com/messense/aliyundrive-webdav package/messense
 #git clone https://github.com/gdy666/luci-app-lucky package/lucky
 #git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
-#git clone https://github.com/kiddin9/openwrt-packages/luci-theme-edge package/luci-theme-edge
-#git clone https://github.com/kiddin9/openwrt-packages/luci-app-store package/luci-app-store
-#git clone https://github.com/kiddin9/openwrt-packages/luci-app-ramfree package/luci-app-ramfree
-#git clone https://github.com/kiddin9/openwrt-packages
+git clone https://github.com/kiddin9/openwrt-packages/raw/master/luci-theme-edge package/luci-theme-edge
+git clone https://github.com/kiddin9/openwrt-packages/raw/master/luci-app-store package/luci-app-store
+git clone https://github.com/kiddin9/openwrt-packages/raw/master/luci-app-ramfree package/luci-app-ramfree
 git clone https://github.com/sirpdboy/luci-app-eqosplus package/luci-app-eqosplus
-git clone https://github.com/souwei168/luci-app-store package/luci-app-store
-git clone https://github.com/QC3284/luci-app-ramfree package/luci-app-ramfree
-git clone https://github.com/davinyue/luci-theme-edge package/luci-theme-edge
+#git clone https://github.com/souwei168/luci-app-store package/luci-app-store
+#git clone https://github.com/QC3284/luci-app-ramfree package/luci-app-ramfree
+#git clone https://github.com/davinyue/luci-theme-edge package/luci-theme-edge
